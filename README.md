@@ -1,6 +1,8 @@
-Receta de Milanesas
+# Electronica Digital III
 
-Ingredientes:
+## Receta de Milanesas
+
+### Ingredientes:
 
 - 8 milanesas pequeñas (puede ser de nalga, bola de lomo, peceto, etc.)
 - Pan rallado
@@ -10,7 +12,7 @@ Ingredientes:
 - Perejil picado
 - Sal y pimienta
 
-Paso a paso:
+### Paso a paso:
 
 1. Batir los huevos en un recipiente y agregar la mostaza, el ajo picado, el perejil, la sal y la pimienta para marinar la carne.
 2. Salar las milanesas y colocarlas en la marinada, asegurándose de que queden bien embebidas.
